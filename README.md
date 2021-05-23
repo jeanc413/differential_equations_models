@@ -1,16 +1,16 @@
 # differential_equations_models
 
-This is a show case of differential equations models and solvers coded in python.
+This is a showcase of differential equations models and solvers coded in python.
 
 ## Disclaimer
 
-Some of the packages used presented to be unable to run in Windows enviroments using a standard Python enviroment.
-Therefore, we suggest using a Conda enviroment to execute any run.
+Some packages used presented to be unable to run in Windows enviroments using a standard Python enviroment.
+Therefore, we suggest using a Conda environment to execute any run.
 
 ## Using Pyomo solvers
 
 Pyomo is a Python-based, open-source optimization modeling language with a diverse set of optimization capabilities.
-Their documentation can be accesed [here](https://pyomo.readthedocs.io/en/stable).
+Their documentation can be accessed [here](https://pyomo.readthedocs.io/en/stable).
 One comment to add up is that installation of Pyomo was not trivial task on Windows pip enviroment. 
 An installation using an Anaconda Distribution is highly recommended.
 
@@ -34,9 +34,13 @@ An installation using an Anaconda Distribution is highly recommended.
 * numpy
    * Mathematical computing library.
 * matplotlib.pyplot
-    * Mathematical ploting library.
-* Plotly
-    * Ploting library used for animations.
+    * Mathematical plotting library.
+* plotly
+    * Plotting library used for animations.
+  
+### Projects
+* Brachistochrone
+* Rocket car
 
 
 
